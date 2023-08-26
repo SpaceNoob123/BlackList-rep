@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Профиль 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\marku\\Documents\\GitHub\\BlackList-rep\\BlackList\\BlackList\\bin\\Debug\\net6.0-windows\\BlackList.exe"
+    }
+  }
+}
